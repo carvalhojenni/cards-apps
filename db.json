@@ -1,0 +1,22 @@
+{
+    "Apps":[
+            {
+                "id": 1,
+                "img": "https://apidiag276.blob.core.windows.net/api/portal/2019/01/5a.jpg",
+                "titulo": "QuintoAndar",
+                "texto": ""
+            },
+            {
+                "id": 2,
+                "img": "https://www.mxm.com.br/wp-content/uploads/2019/05/unnamed.png",
+                "titulo": "Zap Imoveis",
+                "texto": ""
+            },
+            {
+                "id": 3,
+                "img": "https://cdn.startupi.com.br/wp-content/uploads/2014/02/imagem_vivareal1-600x250.jpg",
+                "titulo": "Viva Real",
+                "texto": ""
+            }
+        ]
+    }
